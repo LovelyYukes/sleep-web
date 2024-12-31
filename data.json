@@ -5,7 +5,7 @@
     "port": 9010,
     "secret": "123456",
     "status": 0,
-    "app_name": "网易云音乐",
+    "app_name": "QQ",
     "status_list": [
         {
             "id": 0,
